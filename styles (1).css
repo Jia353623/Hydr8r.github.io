@@ -208,3 +208,17 @@ footer {
     background-color: #0073a1;
 }
 
+@media (max-width: 768px) {
+    .product-card {
+        width: 90%;
+    }
+
+    .about {
+        padding: 20px;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+}
